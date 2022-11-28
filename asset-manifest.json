@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/The-F2E---scrum-training/static/css/main.972d97f2.css",
+    "main.js": "/The-F2E---scrum-training/static/js/main.155439c5.js",
+    "static/media/jf-openhuninn-1.1.ttf": "/The-F2E---scrum-training/static/media/jf-openhuninn-1.1.8b3953f644e641262a5c.ttf",
+    "static/media/851CHIKARA-DZUYOKU_kanaA_004.ttf": "/The-F2E---scrum-training/static/media/851CHIKARA-DZUYOKU_kanaA_004.b3e1fa6b68627f9311c2.ttf",
+    "static/media/KFhimaji.otf": "/The-F2E---scrum-training/static/media/KFhimaji.c76a05589985f18e42fb.otf",
+    "static/media/role-dev02.png": "/The-F2E---scrum-training/static/media/role-dev02.b829147864bfdeb8d414.png",
+    "static/media/role-dev01.png": "/The-F2E---scrum-training/static/media/role-dev01.5ca8162c49847dd36cb7.png",
+    "static/media/intro-pad.png": "/The-F2E---scrum-training/static/media/intro-pad.752448babe2d8eb9507b.png",
+    "static/media/role-user.png": "/The-F2E---scrum-training/static/media/role-user.293954e43135775ab071.png",
+    "static/media/role-scrum-master.png": "/The-F2E---scrum-training/static/media/role-scrum-master.587fb9b35ab9323f476c.png",
+    "static/media/task-pad.png": "/The-F2E---scrum-training/static/media/task-pad.514e42771e6c74f27b1a.png",
+    "static/media/role-po.png": "/The-F2E---scrum-training/static/media/role-po.45f72c73a7e39afeede6.png",
+    "static/media/loading.gif": "/The-F2E---scrum-training/static/media/loading.cb2339da7408aa625a6a.gif",
+    "static/media/scrum-sticker.png": "/The-F2E---scrum-training/static/media/scrum-sticker.64d8ad5b15d8689702e7.png",
+    "static/media/talking.gif": "/The-F2E---scrum-training/static/media/talking.04efae0029dd492661b1.gif",
+    "index.html": "/The-F2E---scrum-training/index.html",
+    "main.972d97f2.css.map": "/The-F2E---scrum-training/static/css/main.972d97f2.css.map",
+    "main.155439c5.js.map": "/The-F2E---scrum-training/static/js/main.155439c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.972d97f2.css",
+    "static/js/main.155439c5.js"
+  ]
+}
